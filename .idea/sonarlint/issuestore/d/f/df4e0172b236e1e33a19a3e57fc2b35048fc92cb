@@ -1,0 +1,13 @@
+
+^
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(——λ ωÿÿÿÿ
+S
+java:S1161":Add the "@Override" annotation above this method signature(¨—°ώÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ρι¬Ό
+O	java:S125"<This block of commented-out lines of code should be removed.(ίϊ™—
+S
+java:S1161":Add the "@Override" annotation above this method signature(€λ¶οÿÿÿÿÿ
+?
+java:S1874"+Remove this use of "Job"; it is deprecated.(ΖΠ¨΄
+@
+java:S1068"'Remove this unused "one" private field.(——λ ωÿÿÿÿ
